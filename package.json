@@ -1,6 +1,6 @@
 {
-  "name": "ember-tooltips",
-  "version": "3.0.0-beta.2",
+  "name": "@cspanring/ember-tooltips",
+  "version": "3.0.0-beta.3",
   "description": "Easy and extendible tooltips for Ember",
   "keywords": [
     "ember-addon",
@@ -16,7 +16,10 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cspanring/ember-tooltips.git"
+  },
   "scripts": {
     "build": "ember build",
     "start": "ember server",
